@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "353430566381",
+    "project_id": "parking-system-24fe9",
+    "storage_bucket": "parking-system-24fe9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353430566381:android:171e8054f4f0fae48763e4",
+        "android_client_info": {
+          "package_name": "com.example.parking_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353430566381-hf28vd0te5o5dul1df53u0e6k6spa4ik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoCxhccVN83g0nSS7RwuJCfaOZ6pLo1So"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353430566381-hf28vd0te5o5dul1df53u0e6k6spa4ik.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "353430566381-utmqmgm56jo7ha29dv7pigg78me0gptg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.parkingSystem"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353430566381:android:48c43355eb09fc018763e4",
+        "android_client_info": {
+          "package_name": "com.parkingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353430566381-hf28vd0te5o5dul1df53u0e6k6spa4ik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoCxhccVN83g0nSS7RwuJCfaOZ6pLo1So"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353430566381-hf28vd0te5o5dul1df53u0e6k6spa4ik.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "353430566381-utmqmgm56jo7ha29dv7pigg78me0gptg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.parkingSystem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
